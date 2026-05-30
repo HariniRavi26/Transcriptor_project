@@ -1,0 +1,11 @@
+streamlit
+streamlit-mic-recorder
+faster-whisper
+deep-translator
+gtts
+SpeechRecognition
+pydub
+av
+numpy
+ctranslate2
+onnxruntime
